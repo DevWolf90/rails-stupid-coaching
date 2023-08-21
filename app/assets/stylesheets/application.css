@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ .btn{
+  border-radius:0px 5px 5px 0px!important;
+}
+
+#input {
+  border-radius:5px 0px 0px 5px !important;
+}
+
+#answer {
+  border-left: solid 2px rgba(200,200,200);
+  border-width: 10px;
+  background-color: bisque;
+}
+
+#question {
+  border-left: solid 2px rgba(200,200,200);
+  border-width: 10px;
+}
